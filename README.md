@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marius
-- 👀 I’m interested in scientific programming
+- 👀 I’m interested in scientific computing
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me github@spamalam.hinsberger.eu
